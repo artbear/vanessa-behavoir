@@ -6,8 +6,8 @@
 
 https://github.com/silverbulleters/add - объединенный проект содержит в себе
 
-* BDD - bddRunner
-* TDD - tddRunner
+* BDD - bddRunner.epf
+* TDD - xddTestRunner.epf
 * единые расширения для тестирования
 
 инсталяция при помощи команды `opm install add` из единого хаба пакетов проекта http://oscript.io
